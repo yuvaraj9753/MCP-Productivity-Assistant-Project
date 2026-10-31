@@ -1,0 +1,3 @@
+client
+notes_mcp_server
+task_mcp_server

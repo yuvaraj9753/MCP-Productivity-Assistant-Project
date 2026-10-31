@@ -1,0 +1,15 @@
+pyproject.toml
+client/__init__.py
+client/llm_handler.py
+client/mcp_client.py
+mcp_productivity_assistant.egg-info/PKG-INFO
+mcp_productivity_assistant.egg-info/SOURCES.txt
+mcp_productivity_assistant.egg-info/dependency_links.txt
+mcp_productivity_assistant.egg-info/requires.txt
+mcp_productivity_assistant.egg-info/top_level.txt
+notes_mcp_server/__init__.py
+notes_mcp_server/database.py
+notes_mcp_server/server.py
+task_mcp_server/__init__.py
+task_mcp_server/database.py
+task_mcp_server/server.py
