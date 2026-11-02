@@ -11,6 +11,8 @@ dependencies = [
     "python-dotenv",
     "streamlit",
     "groq",
+    "sqlalchemy",
+    "psycopg[binary]",
 ]
 
 [tool.setuptools.packages.find]
