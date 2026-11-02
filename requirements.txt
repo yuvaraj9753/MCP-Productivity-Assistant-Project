@@ -2,3 +2,5 @@ fastmcp>=2.11,<3.0
 python-dotenv
 streamlit
 groq
+sqlalchemy
+psycopg[binary]
