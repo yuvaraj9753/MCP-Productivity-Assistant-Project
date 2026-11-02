@@ -10,7 +10,7 @@ load_dotenv()
 class LLMHandler:
     """Handles Groq LLM requests and tool-calling decisions."""
 
-    def __init__(self, model: str = "openai/gpt-oss-20b"):
+    def __init__(self, model: str = "qwen/qwen3.8-27b"):
         api_key = os.getenv("GROQ_API_KEY")
 
         if not api_key:
